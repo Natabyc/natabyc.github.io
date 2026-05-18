@@ -1,4 +1,3 @@
-# natabyc.github.io
 
 # Tytuł Twojego Projektu
 Krótki, jednozdaniowy opis projektu, który pojawi się w dużym nagłówku na samej górze strony.
