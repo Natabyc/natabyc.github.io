@@ -1,9 +1,19 @@
 
-# Tytuł Twojego Projektu
-Krótki, jednozdaniowy opis projektu, który pojawi się w dużym nagłówku na samej górze strony.
+# Mini GRC Project
+GRC Project to self-learn governance, security and compliance practices.
 
-## O projekcie
-Tutaj wpisz główny opis Twojego projektu. Napisz, czym jest, jaki problem rozwiązuje, dla kogo powstał i jakich technologii użyłaś. To jest idealne miejsce na wstęp.
+## About
+This project implements an ISO/IEC 27001:2022 aligned GRC framework for Modern Retail Co., a fictional e-commerce platform. It consists of:
+
+    Risk Register: Tracks assets, threats, and vulnerabilities. Also, it includes risk assessment based based on Impact and Probability.
+
+    Risk Treatment Plan: Defines mitigation actions and assigns owners.
+
+    Controls: Maps technical/organizational protections to risks (e.g., employee offboarding).
+
+    Statement of Applicability (SoA): Formally documented the status (Implemented/Not Implemented) of all 93 Annex A controls.
+
+Goal: To bridge the gap between risk management and audit readiness, showing exactly why and how controls are implemented.
 
 ---
 
