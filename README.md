@@ -59,5 +59,5 @@ This final section introduces the Statement of Applicability (SoA), a core compo
 
 ---
 
-### LLet's connect! You can find me on:
+### Let's connect! You can find me on:
 [LinkedIn 🔗](https://www.linkedin.com/in/natalia-by%C4%87/)
