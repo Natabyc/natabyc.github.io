@@ -39,7 +39,7 @@ Following the risk assessment, this Risk Treatment Plan outlines the strategic d
 
 ---
 
-## 4. Druga funkcja / Sekcja
+## 4. Controls
 This section details the Internal Security Controls Registry, which maps specific security measures (from C-01 to C-26) directly to the previously identified Risk IDs and ISO 27001 Annex A standards. It provides an operational breakdown of technical and administrative controls—ranging from secure authentication and network segmentation to secure coding practices and business continuity readiness. Crucially, each entry defines the technical description, the responsible owner, the current implementation status, and the precise evidence required (such as logs, configurations, and test reports) to verify and audit the control's effectiveness.
 
 ![Controls used - part 1](controls_one.png)
@@ -48,7 +48,7 @@ This section details the Internal Security Controls Registry, which maps specifi
 
 ---
 
-## 5. Piąta funkcja / Sekcja
+## 5. Statement of Applicability
 This final section introduces the Statement of Applicability (SoA), a core component of the ISO 27001 framework that defines which information security controls are currently active within the organization. The matrix lists standard controls across key domains - including organizational, people, physical, and technological security - and explicitly states their deployment status. By clearly distinguishing between implemented measures (such as secure authentication, cloud services security, and network protection) and those not yet implemented, the SoA provides a transparent compliance baseline and highlights the precise areas targeted for future security maturity.
 
 ![SoA - part 1](soa_one.png)
