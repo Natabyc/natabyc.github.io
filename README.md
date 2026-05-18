@@ -20,12 +20,13 @@ Goal: To bridge the gap between risk management and audit readiness, showing exa
 ## 1. Pierwsza funkcja / Sekcja
 Tutaj wpisz tekst opisujący pierwszy element lub funkcjonalność Twojego projektu. Wyjaśnij, co użytkownik widzi na poniższym zrzucie ekranu.
 
-![Opis alternatywny screena 1](screen1.png)
+![Company details](company_details.png)
 
 ---
 
 ## 2. Druga funkcja / Sekcja
-![Opis alternatywny screena 2](screen2.png)
+![Controls used - part 1](controls_one.png)
+![Controls used - part 2](controls_two.png)
 
 Tutaj wpisz tekst do drugiego screena. Zwróć uwagę, że w kodzie zamieniliśmy kolejność – najpierw jest obrazek, potem tekst, dzięki czemu na stronie uzyskasz ładny, naprzemienny efekt.
 
@@ -34,12 +35,12 @@ Tutaj wpisz tekst do drugiego screena. Zwróć uwagę, że w kodzie zamieniliśm
 ## 3. Trzecia funkcja / Sekcja
 Tutaj wpisz tekst opisujący trzeci screen. Znowu najpierw dajemy tekst, a pod spodem będzie obrazek.
 
-![Opis alternatywny screena 3](screen3.png)
+![Risk register](risk_register.png)
 
 ---
 
 ## 4. Czwarta funkcja / Sekcja
-![Opis alternatywny screena 4](screen4.png)
+![Risk treatment plan](risk_treatment_plan.png)
 
 Tutaj wpisz tekst do czwartego screena.
 
@@ -48,7 +49,11 @@ Tutaj wpisz tekst do czwartego screena.
 ## 5. Piąta funkcja / Sekcja
 Tutaj wpisz tekst opisujący piąty, ostatni screen.
 
-![Opis alternatywny screena 5](screen5.png)
+![SoA - part 1](soa_one.png)
+![SoA - part 2](soa_two.png)
+![SoA - part 3](soa_three.png)
+![SoA - part 4](soa_four.png)
+
 
 ---
 
