@@ -17,37 +17,39 @@ Goal: To bridge the gap between risk management and audit readiness, showing exa
 
 ---
 
-## 1. Pierwsza funkcja / Sekcja
-Tutaj wpisz tekst opisujący pierwszy element lub funkcjonalność Twojego projektu. Wyjaśnij, co użytkownik widzi na poniższym zrzucie ekranu.
+## 1. Company Details
+Modern Retail Co. is a fictional e-commerce company with 120 employees and 350,000 active customer accounts. Its core assets, hosted on Google Cloud Platform (GCP) and local warehouse infrastructure, include customer data, cardholder information, order records, and authentication credentials, all classified according to strict security levels from internal to highly confidential.
 
 ![Company details](company_details.png)
 
 ---
 
-## 2. Druga funkcja / Sekcja
-![Controls used - part 1](controls_one.png)
-![Controls used - part 2](controls_two.png)
-
-Tutaj wpisz tekst do drugiego screena. Zwróć uwagę, że w kodzie zamieniliśmy kolejność – najpierw jest obrazek, potem tekst, dzięki czemu na stronie uzyskasz ładny, naprzemienny efekt.
-
----
-
-## 3. Trzecia funkcja / Sekcja
-Tutaj wpisz tekst opisujący trzeci screen. Znowu najpierw dajemy tekst, a pod spodem będzie obrazek.
+## 2. Risk Register
+This section presents a Risk Register that evaluates potential threats to the company's assets, such as PII, the e-commerce platform, and network infrastructure. Each identified risk is assessed based on specific vulnerabilities, its impact on the CIA triad (Confidentiality, Integrity, Availability), and an assigned owner. By calculating risk levels as a product of probability and impact, the matrix categorizes findings from low to critical, serving as a foundational roadmap for prioritized security mitigation and remediation efforts.
 
 ![Risk register](risk_register.png)
 
 ---
 
-## 4. Czwarta funkcja / Sekcja
+## 3. Risk Treatment Plan
+Following the risk assessment, this Risk Treatment Plan outlines the strategic decisions and technical controls deployed to mitigate each identified threat. Maping directly to standard security frameworks, the plan defines specific descriptions of actions—such as implementing multi-factor authentication (MFA), data loss prevention (DLP) tools, and automated CI/CD pipelines. Each mitigation task is assigned a dedicated owner, a strict implementation deadline, and an ongoing tracking status to ensure a structured and accountable approach to strengthening the organization's overall security posture.
+
 ![Risk treatment plan](risk_treatment_plan.png)
 
-Tutaj wpisz tekst do czwartego screena.
+
+---
+
+## 4. Druga funkcja / Sekcja
+This section details the Internal Security Controls Registry, which maps specific security measures (from C-01 to C-26) directly to the previously identified Risk IDs and ISO 27001 Annex A standards. It provides an operational breakdown of technical and administrative controls—ranging from secure authentication and network segmentation to secure coding practices and business continuity readiness. Crucially, each entry defines the technical description, the responsible owner, the current implementation status, and the precise evidence required (such as logs, configurations, and test reports) to verify and audit the control's effectiveness.
+
+![Controls used - part 1](controls_one.png)
+![Controls used - part 2](controls_two.png)
+
 
 ---
 
 ## 5. Piąta funkcja / Sekcja
-Tutaj wpisz tekst opisujący piąty, ostatni screen.
+This final section introduces the Statement of Applicability (SoA), a core component of the ISO 27001 framework that defines which information security controls are currently active within the organization. The matrix lists standard controls across key domains - including organizational, people, physical, and technological security - and explicitly states their deployment status. By clearly distinguishing between implemented measures (such as secure authentication, cloud services security, and network protection) and those not yet implemented, the SoA provides a transparent compliance baseline and highlights the precise areas targeted for future security maturity.
 
 ![SoA - part 1](soa_one.png)
 ![SoA - part 2](soa_two.png)
